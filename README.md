@@ -1,4 +1,6 @@
 # awesome-keyboard
+* [AllwinKey](https://allwinkey.com) — Keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, CNC cases.
+* [Allwin Factory](https://allwinfactory.com) — Custom keyboard/keycap factory, 600+ products, ceramic keycaps.
 
 A curated list of awesome resources about typing, configuring and building keyboards.
 
